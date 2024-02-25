@@ -6,8 +6,8 @@ Voor deze presentatie is [Reveal.js](https://revealjs.com/installation/) gebruik
 
 ## Features
 
-- Menu (plugin)
-- Vertical slides indicator (plugin)
+- [Menu plugin](https://github.com/denehyg/reveal.js-menu)
+- [Vertical slides indicator](https://github.com/Martinomagnifico/reveal.js-verticator) (plugin)
 - Slides in separate Markdown file
 - Themes with logos
   - DomoticaGrunn, light and dark
