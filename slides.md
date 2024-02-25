@@ -11,7 +11,6 @@
 - Vertical slides indicator (plugin)
 - Slides in separate Markdown file
 - Themes with logos
-  - KPN, light and dark
   - DomoticaGrunn, light and dark
 - Title needs to be set in 'index.html'
 
@@ -65,34 +64,16 @@ Images used in the slides are placed in the directory 'images'.
 <!-- .slide: data-menu-title="Themes" -->
 ## Themes
 
-Custom themes with logos for KPN and DomoticaGrunn.
+Custom themes with logos for domoticaGrunn.
 
 Images used in these themes are stored in the directory 'css>theme>images'.
 
-Default theme is kpn-light and is set in 'index.html'.
-
---
-
-<!-- .slide: data-menu-title="Theme KPN-light" -->
-## Theme KPN-light
-
-![KPN-light](images/KPN-light-small.png)
-
-css/theme/kpn-light.css
-
---
-
-<!-- .slide: data-menu-title="Theme KPN-dark" -->
-## Theme KPN-dark
-
-![KPN-dark](images/KPN-dark-small-inception.png)
-
-css/theme/dg-dark.css
+Default theme is domoticaGrunn-dark and is set in 'index.html'.
 
 --
 
 <!-- .slide: data-menu-title="Theme DomoticaGrunn-light" -->
-## Theme DomoticaGrunn-light
+## Theme domoticaGrunn-light
 
 ![DG-light](images/DG-light-small.png)
 
@@ -101,7 +82,7 @@ css/theme/dg-light.css
 --
 
 <!-- .slide: data-menu-title="Theme DomoticaGrunn-dark" -->
-## Theme DomoticaGrunn-dark
+## Theme domoticaGrunn-dark
 
 ![DG-dark](images/DG-dark-small.png)
 

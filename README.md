@@ -43,7 +43,7 @@ Custom themes with logos for domoticaGrunn.
 
 Images used in these themes are stored in the directory 'css>theme>images'.
 
-Default theme is the domoticaGrunn-light theme, this is set in 'index.html'.
+Default theme is the domoticaGrunn-dark theme, this is set in 'index.html'.
 
 ### domoticaGrunn-light
 
